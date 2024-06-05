@@ -31,7 +31,7 @@ function About(){
                 <p className="text-white nss w-4/5">
                 When I'm not coding, I enjoy hiking, photography, and experimenting with new cooking
                 recipes. I'm also an avid reader and enjoy exploring the latest trends in technology
-                and design.
+                and design.I have a good team spirit.
                 </p>
             </div>
           </div>
