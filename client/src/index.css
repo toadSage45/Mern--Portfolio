@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nova+Round&family=Varela+Round&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nova-round-regular {
+  font-family: "Nova Round", system-ui;
+  font-weight: 600;
+  font-style: normal;
+  
+}
+
+.nss {
+  font-family: "Nova Round", system-ui;
+  font-weight: 600;
+  font-style: normal;
+  
+}
+  
