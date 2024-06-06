@@ -16,8 +16,8 @@ function About(){
         <div>
           <SectionTitle title="About" />
 
-          <div className="flex w-full item-center">
-            <div className="h-[70vh] w-1/2">
+          <div className="flex w-full items-center sm:flex-col">
+            <div className="h-[70vh] w-1/2 md:flex sm:flex sm:items-center sm:justify-center sm:h-[50vh] sm:w-full">
                 <LottieAnimation />
             </div>
             <div className="flex flex-col gap-5  mt-16">
@@ -37,7 +37,7 @@ function About(){
           </div>
 
           <div>
-            <h1 className="text-tertiary text-xl nss">
+            <h1 className="text-tertiary text-xl nss md:mt-7 sm:mt-5">
                 Here are the few technologies I've working with recently: 
             </h1>
             <div className="flex flex-wrap gap-12 mt-5">

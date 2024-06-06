@@ -10,7 +10,14 @@ module.exports = {
          "secondary" : "#737CCF",
         "tertiary" : "#BBC4EB",
       "lastly" : "#EBE8F5",
-    "fourthly" : "#E1E5F8"}
+    "fourthly" : "#E1E5F8"},
+    },
+    screens: {
+
+      'lg': {'max': '2023px'},
+      'md':{'max': '1500px'},
+      'sm': {'max': '1000px'},
+     
     },
   },
   plugins: [],
