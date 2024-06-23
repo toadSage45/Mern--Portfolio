@@ -13,7 +13,7 @@ function About(){
         ]
     
     return(
-        <div>
+        <div className="py=5">
           <SectionTitle title="About" />
 
           <div className="flex w-full items-center sm:flex-col">
